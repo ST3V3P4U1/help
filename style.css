@@ -1,0 +1,22 @@
+h1, h2, h3{
+    width:625px;
+  }
+  h1{
+  font-size:96px;
+  color:darkblue;
+  line-height:0.8;
+  }
+  span {
+  font-size:48px;
+  color:green;
+  background-color:aliceblue;
+  }
+  h2 {
+    background-color:darkblue;
+    text-align:center;
+  }
+  h3 {
+  background-color:navy;
+  color:aqua;
+  }
+  
